@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hey,"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a first year CS Master's student at University of Wisconsin, Madison. My research interest lies broadly in Computer Vision and Machine Learning.
+
+Prior to this, I worked in the Multimedia and Algorithms team in Samsung Semiconductor India Research where I contributed to the Dense Optical Flow engine and the Spatio-temporal Noise Reduction engine for the image post processing pipeline in Exynos SoC.
+
+Before that, I completed my Dual Degree (B.Tech and M.Tech) in Electrical Engineering from IIT Bombay. For my masters thesis, I was supervised by [Prof. Virendra Singh](https://www.ee.iitb.ac.in/~viren/) where I worked building efficient hardware for convlutional neural network.
+
+I occasionally write blogs about my projects, experiences, travels and thoughts. You can find the blogs below and also in archive. I appreciate questions or feedbacks regarding any of my project, blog or more broadly, my experience. Please email me.
 
 A data-driven personal website
 ======
